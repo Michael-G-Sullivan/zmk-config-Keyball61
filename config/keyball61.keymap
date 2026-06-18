@@ -70,8 +70,8 @@
             label = "GAMING";
             bindings = <
 &trans  	        	&trans 	&trans  &trans  &trans  &trans                      &trans  &trans  &trans  &trans  &trans  &trans
-&trans          		&trans  &kp Q   &kp W   &kp E   &trans                      &trans  &trans  &trans  &trans  &trans  &trans
-&trans  	        	&trans  &kp A   &kp S   &kp D   &kp F                       &trans  &trans  &trans  &trans  &trans  &trans
+&trans          		&trans  &kp Q   &kp W   &kp E   &trans                      &trans  &trans  &kp UP  &trans  &trans  &trans
+&trans  	        	&trans  &kp A   &kp S   &kp D   &kp F                       &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &trans
 &trans  		        &trans  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &nav_tap NAV DEFAULT	&trans  &trans  &trans  &trans  &kp ESC &kp RET &kp Z   &trans                  &trans  &trans
             >;
